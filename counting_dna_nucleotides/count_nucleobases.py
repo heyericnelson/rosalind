@@ -1,5 +1,4 @@
 # this script takes DNA strings and counts the frequency at which each base appears
-
 import argparse as ap
 
 def get_nucleobase_counts(dna_string):
